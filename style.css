@@ -2,3 +2,11 @@
     filter: brightness(50%);
     height: 550px;
 }
+footer{
+    height: 300px;
+
+}
+.icon{
+    padding: 10px;
+    border-radius: 30px;
+}
